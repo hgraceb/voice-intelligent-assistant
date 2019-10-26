@@ -1,7 +1,5 @@
-自定义聊天界面
+# 语音智能助手
 
-下面是demo的效果
-![image](https://github.com/huangruiLearn/HRLChatUi/blob/master/GIF.gif)
- 
- 我的博客有简单的介绍:
- https://blog.csdn.net/qq_28931623/article/details/84793242
+1.界面UI：<https://github.com/huangruiLearn/HRLChatUi>
+
+2.讯飞SDK：<https://www.xfyun.cn/doc/platform/quickguide.html>
