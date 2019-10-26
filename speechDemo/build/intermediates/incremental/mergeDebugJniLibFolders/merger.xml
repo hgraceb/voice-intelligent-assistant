@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\ASCode\HRLChatUi\speechDemo\libs"><file name="armeabi-v7a/libmsc.so" path="D:\ASCode\HRLChatUi\speechDemo\libs\armeabi-v7a\libmsc.so"/><file name="Msc.jar" path="D:\ASCode\HRLChatUi\speechDemo\libs\Msc.jar"/></source></dataSet><dataSet config="debug"><source path="D:\ASCode\HRLChatUi\speechDemo\src\debug\jniLibs"/></dataSet></merger>

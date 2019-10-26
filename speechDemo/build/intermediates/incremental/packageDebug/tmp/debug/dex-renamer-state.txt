@@ -1,0 +1,4 @@
+#Tue Jul 09 18:50:07 CST 2019
+base.0=D\:\\ASCode\\HRLChatUi\\speechDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
